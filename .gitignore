@@ -172,3 +172,5 @@ outputs
 petrel_client
 huggingface/tmp
 pretrained
+smoke_test/data/
+smoke_test/outputs/
